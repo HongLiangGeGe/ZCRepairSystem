@@ -1,6 +1,6 @@
 # zcrs
 
-> 维修系统
+> 维修系统 v1.0
 
 ## Build Setup
 
